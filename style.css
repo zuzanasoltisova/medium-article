@@ -1,0 +1,47 @@
+.banner-top {
+    padding: 12px 0;
+    background-size: cover;
+    color: white;
+    margin: 0;
+}
+
+.banner-top h1 {
+    color: white;
+}
+
+.banner-top h2 {
+    color: lightgray;
+}
+
+.container-top {
+    width: 700px;
+    margin: 50px auto;
+}
+
+.container-main {
+    width: 700px;
+    margin: 50px auto;
+}
+
+.container-main h1 {
+    color: grey;
+}
+
+body {
+    margin: 0;
+    font-weight: lighter;
+    font-family: 'Lora', serif;
+}
+
+.link {
+    font-weight: lighter;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: italic;
+    background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
+    color: grey;
+}
+
+.link:hover {
+    background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));
+}
